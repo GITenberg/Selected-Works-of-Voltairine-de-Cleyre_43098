@@ -1,0 +1,40 @@
+_repo: Selected-Works-of-Voltairine-de-Cleyre_43098
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Havel, Hippolyte
+    gutenberg_agent_id: '1122'
+    url: http://www.gutenberg.org/2009/agents/1122
+covers:
+- cover_type: archival
+  image_path: 43098-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Cleyre, Voltairine
+    alias: Cleyre, Voltairine de
+    birthdate: 1866
+    deathdate: 1912
+    gutenberg_agent_id: '42020'
+    url: http://www.gutenberg.org/2009/agents/42020
+  editor:
+    agent_name: Berkman, Alexander
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '37004'
+    url: http://www.gutenberg.org/2009/agents/37004
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Berkman
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminism -- Literary collections'
+- !lcc 'PS'
+- !lcsh 'Anarchism -- Literary collections'
+title: Selected Works of Voltairine de Cleyre
+url: http://www.gutenberg.org/ebooks/43098
